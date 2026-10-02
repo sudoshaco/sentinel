@@ -1,0 +1,19 @@
+# Secrets — niemals committen
+*_token
+*_pass
+wazuh_pass
+gotify_app_token
+htb_token
+*.pem
+*.key
+id_ed25519*
+# State / Build
+*.log
+*.bak
+__pycache__/
+*.pyc
+wellness/
+voice-intake/
+build/
+.gradle/
+.dart_tool/
